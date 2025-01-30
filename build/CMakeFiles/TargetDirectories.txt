@@ -1,0 +1,3 @@
+/home/suloly/Quran-MAyoub/build/CMakeFiles/quran_player.dir
+/home/suloly/Quran-MAyoub/build/CMakeFiles/edit_cache.dir
+/home/suloly/Quran-MAyoub/build/CMakeFiles/rebuild_cache.dir
